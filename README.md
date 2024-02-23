@@ -1,6 +1,7 @@
 Problem Statement:
 The objective of this project is to analyze customer purchase patterns, feedback, and pricing strategies to enhance product offerings and customer satisfaction. By employing data analytics and machine learning techniques, Beautique Analytics aims to identify key drivers of customer behavior, optimize product pricing, and improve overall customer engagement.
 
+
 Business Objectives:
 Customer Insight: Gain a deep understanding of customer preferences and satisfaction levels to tailor product offerings and marketing strategies accordingly.
 
